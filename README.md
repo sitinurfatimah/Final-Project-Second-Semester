@@ -1,1 +1,18 @@
 # Final-Project-Second-Semester
+### Analysis with Multiple Linear Regression
+y = Online Shopping Realitation (Rp)
+x1 = Age (years)
+x2 = Gender (Female:1, Male:0)
+x3 = Domicile (Jabodetabek:1, Other:0)
+x4 = Job (Worker:1, No Job:0)
+x5 = Spending Sectors (quantity)
+x6 = Online Shopping Budget (Rp)
+x7 = Gadget Times (hours)
+x8 = Social Media Times (hours)
+x9 = Online Shopping Apps (quantity)
+x10 = Frequency Open the Apps (quantity)
+x11 = Frequency Ads (quantity)
+x12 = Frequency Check-out (quantity)
+x13 = Frequency Voucher (quantity)
+x14 = Satisfaction of Vouchers (in Range 1-4)
+x15 = Discount Voucher (Rp)
