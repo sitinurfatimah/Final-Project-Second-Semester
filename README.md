@@ -1,4 +1,4 @@
-# Final-Project-Second-Semester
+# Final-Project-Third-Semester
 ### Analysis with Multiple Linear Regression
 y = Online Shopping Realitation (Rp)
 x1 = Age (years)
